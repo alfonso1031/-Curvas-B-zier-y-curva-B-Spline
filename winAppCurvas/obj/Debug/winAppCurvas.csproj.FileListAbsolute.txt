@@ -1,0 +1,9 @@
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\bin\Debug\winAppCurvas.exe.config
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\bin\Debug\winAppCurvas.exe
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\bin\Debug\winAppCurvas.pdb
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\obj\Debug\winAppCurvas.csproj.AssemblyReference.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\obj\Debug\winAppCurvas.Properties.Resources.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\obj\Debug\winAppCurvas.csproj.GenerateResource.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\obj\Debug\winAppCurvas.csproj.CoreCompileInputs.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\obj\Debug\winAppCurvas.exe
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppCurvas\obj\Debug\winAppCurvas.pdb

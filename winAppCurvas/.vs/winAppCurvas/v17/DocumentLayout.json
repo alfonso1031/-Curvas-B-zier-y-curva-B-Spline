@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|c:\\users\\alfon\\onedrive\\escritorio\\alfonsoooo\\espe\\computacion grafica\\winappcurvas\\frmcurvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|solutionrelative:frmcurvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\frmcurvas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|solutionrelative:frmcurvas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\cbspline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|solutionrelative:cbspline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\cbezier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|solutionrelative:cbezier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\frmcurvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{589F8AD4-2900-4F6A-9DF2-5DF4CE12E85D}|winAppCurvas.csproj|solutionrelative:frmcurvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCurvas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\frmCurvas.Designer.cs",
+              "RelativeDocumentMoniker": "frmCurvas.Designer.cs",
+              "ToolTip": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\frmCurvas.Designer.cs",
+              "RelativeToolTip": "frmCurvas.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:06:28.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCurvas.cs",
+              "DocumentMoniker": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\frmCurvas.cs",
+              "RelativeDocumentMoniker": "frmCurvas.cs",
+              "ToolTip": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\frmCurvas.cs",
+              "RelativeToolTip": "frmCurvas.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAmwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:06:18.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CBSpline.cs",
+              "DocumentMoniker": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\CBSpline.cs",
+              "RelativeDocumentMoniker": "CBSpline.cs",
+              "ToolTip": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\CBSpline.cs",
+              "RelativeToolTip": "CBSpline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:05:57.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CBezier.cs",
+              "DocumentMoniker": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\CBezier.cs",
+              "RelativeDocumentMoniker": "CBezier.cs",
+              "ToolTip": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\CBezier.cs",
+              "RelativeToolTip": "CBezier.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:05:38.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCurvas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\frmCurvas.cs",
+              "RelativeDocumentMoniker": "frmCurvas.cs",
+              "ToolTip": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppCurvas\\frmCurvas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmCurvas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:05:14.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
